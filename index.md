@@ -2,7 +2,7 @@
 
 
 
-I'm a final year undergraduate student at Birla Institute of Technology and Science, Pilani, India. My interest lies in building machine learning systems for cyberthreat intelligence and digital forensics. I have been actively working on Bitcoin Blockchain Data Analtics with Professor [Ashutosh Bhatia](https://www.bits-pilani.ac.in/pilani/ashutoshbhatia/profile) and on social network mining with Professor [Vinti Agarwal](https://www.bits-pilani.ac.in/pilani/vintiagarwal/Research). 
+I'm a final year undergraduate student at Birla Institute of Technology and Science, Pilani, India. My interest lies in building machine learning systems for cyberthreat intelligence and digital forensics. I have been actively working on Bitcoin Blockchain Data Analtics with [Professor Ashutosh Bhatia](https://www.bits-pilani.ac.in/pilani/ashutoshbhatia/profile) and on social network mining with [Professor Vinti Agarwal](https://www.bits-pilani.ac.in/pilani/vintiagarwal/Research). 
 
 
 ## Publications and submitted manuscripts
@@ -28,6 +28,6 @@ Abstract: Bitcoin provides pseudo-anonymity to its users, leading to many transa
 
 ## Ongoing Projects
 1. Dark Web Mining: Indentification of threats from the Iron March web forum\
-Project Supervisor: Professor [Vinti Agarwal](https://www.bits-pilani.ac.in/pilani/vintiagarwal/Research).
+Project Supervisor: [Professor Vinti Agarwal](https://www.bits-pilani.ac.in/pilani/vintiagarwal/Research).
 2. Integrating Explainable AI with Federated Learning\
-Project Supervisor: Professor [Navneet Goyal]( https://universe.bits-pilani.ac.in/pilani/goel/profile).
+Project Supervisor: [Professor Navneet Goyal]( https://universe.bits-pilani.ac.in/pilani/goel/profile).
