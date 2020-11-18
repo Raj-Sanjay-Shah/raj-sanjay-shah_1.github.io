@@ -29,5 +29,5 @@ Abstract: Bitcoin provides pseudo-anonymity to its users, leading to many transa
 ## Ongoing Projects
 1. Dark Web Mining: Indentification of threats from the Iron March web forum\
 Project Supervisor: Professor [Vinti Agarwal](https://www.bits-pilani.ac.in/pilani/vintiagarwal/Research).
-2. Integrating Explainable AI with Federated Learning
+2. Integrating Explainable AI with Federated Learning\
 Project Supervisor: Professor [Navneet Goyal]( https://universe.bits-pilani.ac.in/pilani/goel/profile).
