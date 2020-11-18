@@ -1,14 +1,19 @@
+
+
+
+
+
 I'm a final year undergraduate student at Birla Institute of Technology and Science, Pilani, India. My interest lies in building machine learning systems for cyberthreat intelligence and digital forensics. I have been actively working on Bitcoin Blockchain Data Analtics with Professor [Ashutosh Bhatia](https://www.bits-pilani.ac.in/pilani/ashutoshbhatia/profile) and on social network mining with Professor [Vinti Agarwal](https://www.bits-pilani.ac.in/pilani/vintiagarwal/Research). 
 
 
 ## Publications and submitted manuscripts
 
 1. Bitcoin Data Analytics: Exploring Research Avenues and Implementing a Hadoop-Based Analytics Framework 
->**Raj Sanjay Shah** and Ashutosh Bhatia
->WAINA 2020: Web, Artificial Intelligence and Network Applications
->Workshops of 34th International Conference on Advanced Information Networking and Applications (AINA-2020)
->Abstract: Bitcoin is the most successful cryptocurrency since its inception in 2009. There are 18.1 million BTCs in circulation as of December 2019, which roughly translates to 149 Billion USD. With Bitcoin’s substantial market capitalization and unique features like pseudo-anonymity and immutability, it draws much attention from the researchers across the world. Despite this enormous spotlight towards Bitcoin, it remains under-researched because of the large size of the Bitcoin Data, (Roughly 250 GB) and the inability to process this data in small time. To explore avenues for further research, this article presents a survey of the recent advancements done regarding the big data analytics of the Bitcoin Cryptocurrency. Furthermore, we propose an analysis framework based on the Apache Hadoop ecosystem.
->DOI: https://doi.org/10.1007/978-3-030-44038-1_17
+**Raj Sanjay Shah** and Ashutosh Bhatia
+WAINA 2020: Web, Artificial Intelligence and Network Applications
+Workshops of 34th International Conference on Advanced Information Networking and Applications (AINA-2020)
+Abstract: Bitcoin is the most successful cryptocurrency since its inception in 2009. There are 18.1 million BTCs in circulation as of December 2019, which roughly translates to 149 Billion USD. With Bitcoin’s substantial market capitalization and unique features like pseudo-anonymity and immutability, it draws much attention from the researchers across the world. Despite this enormous spotlight towards Bitcoin, it remains under-researched because of the large size of the Bitcoin Data, (Roughly 250 GB) and the inability to process this data in small time. To explore avenues for further research, this article presents a survey of the recent advancements done regarding the big data analytics of the Bitcoin Cryptocurrency. Furthermore, we propose an analysis framework based on the Apache Hadoop ecosystem.
+DOI: https://doi.org/10.1007/978-3-030-44038-1_17
 
 2. CTI-Twitter: Gathering Cyber Threat Intelligence from Twitter using Integrated Supervised and Unsupervised Learning
 >Linn-Mari Kristiansen, Vinti Agarwal, Katrin Franke and **Raj Sanjay Shah**
