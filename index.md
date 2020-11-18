@@ -1,6 +1,6 @@
 I'm a final year undergraduate student at Birla Institute of Technology and Science, Pilani, India. My interest lies in building machine learning systems for cyberthreat intelligence and digital forensics. I have been actively working on Bitcoin Blockchain Data Analtics with Professor [Ashutosh Bhatia] (https://www.bits-pilani.ac.in/pilani/ashutoshbhatia/profile) and on social network mining with Professor [Vinti Agarwal](https://www.bits-pilani.ac.in/pilani/vintiagarwal/Research). 
 
-'''
+```
 ## Publications and submitted manuscripts
 
 1. Bitcoin Data Analytics: Exploring Research Avenues and Implementing a Hadoop-Based Analytics Framework 
@@ -15,7 +15,7 @@ Linn-Mari Kristiansen, Vinti Agarwal, Katrin Franke and **Raj Sanjay Shah**
 Accepted in The 4th International Workshop on Big Data Analytic for Cyber Crime Investigation and Prevention
 IEEE International Conference on Big Data 2020
 Abstract: Cyber threat intelligence (CTI) can be gathered from multiple sources, and Twitter is one such open source platform where a large volume and variety of threat data is shared every day. The automated and timely mining of relevant threat knowledge from this data can be crucial for enrichment of existing threat intelligence platforms to proactively defend against cyber attacks. We propose CTI-Twitter: a novel framework combining supervised and unsupervised learning models to collect, process, analyze and generate threat specific knowledge from tweets coming from multiple users. CTI-Twitter has multi-fold contributions: i) first collecting tweets through Twitter API, ii) extracting relevant threat tweets from irrelevant ones, and classifying relevant ones into multiple classes of threats iii) then grouping tweets belonging to each class using topic modeling iv) finally performing data enrichment and verification process. We evaluate our proposed model on real-time tweets collected for about four months (in year 2020) using Twitter API. The encouraging results obtained indicate the effectiveness of CTI-Twitter in terms of timeliness and discovery of trending attacks patterns, and vulnerabilities.
-'''
+```
 
 3. Bitcoin Data Analytics: Scalable techniques fortransaction clustering and embedding generation
 **Raj Sanjay Shah**, Ashutosh Bhatia, Atith Gandhi and Shray Mathur
