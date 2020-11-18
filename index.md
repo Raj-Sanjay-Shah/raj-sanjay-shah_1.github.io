@@ -26,4 +26,8 @@ Submitted to [Workshop on Cyber Security and Blockchain, COMSNETS 2021](https://
 13th International Conference on COMmunication Systems & NETworkS\
 Abstract: Bitcoin provides pseudo-anonymity to its users, leading to many transactions related to illicit activities. The advent of mixing services like OnionBC, Bitcoin Fog and Blockchain.info has allowed users to increase their anonymity further. We tackle the pseudo-anonymity of the Bitcoin blockchain by developing a scalable spark based framework. We demonstrate the efficacy of our framework by performing exploratory analysis. Furthermore, we show the capabilities of bitcoin-based graph representations and address the issue of user profiling based on unsupervised learning approaches for analysing Bitcoin transactions and users. We create a transaction graph of the Bitcoin data and generate a graph embedding using Variational Graph Autoencoder. Additionally, we use explainable-AI techniques and Kohonen self organizing maps to visualize and understand the results obtained from the unsupervised learning methods.
 
-
+##Ongoing Projects
+1. Dark Web Mining: Indentification of threats from the Iron March web forum\
+Project Supervisor: Professor [Vinti Agarwal](https://www.bits-pilani.ac.in/pilani/vintiagarwal/Research).
+2. Integrating Explainable AI with Federated Learning
+Project Supervisor: Professor [Navneet Goyal]( https://universe.bits-pilani.ac.in/pilani/goel/profile).
