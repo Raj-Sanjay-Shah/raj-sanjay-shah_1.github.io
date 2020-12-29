@@ -1,5 +1,5 @@
 
-I'm a final year undergraduate student at Birla Institute of Technology and Science, Pilani, India. My interest lies in building machine learning systems for cyberthreat intelligence and digital forensics. I have been actively working on Bitcoin Blockchain Data Analtics with [Professor Ashutosh Bhatia](https://www.bits-pilani.ac.in/pilani/ashutoshbhatia/profile) and on social network mining with [Professor Vinti Agarwal](https://www.bits-pilani.ac.in/pilani/vintiagarwal/Research). 
+I'm a final year undergraduate student at Birla Institute of Technology and Science, Pilani, India. My interest lies in building machine learning systems for cyberthreat intelligence and digital forensics. I have been actively working on Bitcoin Blockchain Data Analytics with [Professor Ashutosh Bhatia](https://www.bits-pilani.ac.in/pilani/ashutoshbhatia/profile) and on social network mining with [Professor Vinti Agarwal](https://www.bits-pilani.ac.in/pilani/vintiagarwal/Research). 
 
 
 ## Publications and submitted manuscripts
@@ -18,7 +18,7 @@ Abstract: Cyber threat intelligence (CTI) can be gathered from multiple sources,
 
 3. Bitcoin Data Analytics: Scalable techniques fortransaction clustering and embedding generation\
 Authors: **Raj Sanjay Shah**, Ashutosh Bhatia, Atith Gandhi and Shray Mathur\
-Accepted in [Workshop on Cyber Security and Blockchain, COMSNETS 2021](https://www.comsnets.org/)\
+Accepted in [COMSNETS 2021](https://www.comsnets.org/)\
 13th International Conference on COMmunication Systems & NETworkS\
 Abstract: Bitcoin provides pseudo-anonymity to its users, leading to many transactions related to illicit activities. The advent of mixing services like OnionBC, Bitcoin Fog, and Blockchain.info has allowed users to increase their anonymity further. This paper tackles the pseudo-anonymity of the Bitcoin blockchain by developing a scalable spark based framework to find patterns in the transaction data. The efficacy of the framework is demonstrated by performing exploratory analysis. Furthermore, the paper shows the capabilities of bitcoin-based graph representations and addresses the issue of user profiling based on unsupervised learning approaches for analysing Bitcoin transactions and users. The authors convert the transaction graph of the Bitcoin data to contain only Wallet-IDs and generate graph embeddings using Variational Graph Autoencoder. Additionally, the authors use explainable-AI techniques and Kohonen self organizing maps to visualize and understand the results obtained from the unsupervised learning methods.
 
