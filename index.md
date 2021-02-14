@@ -1,6 +1,16 @@
 
 I'm a final year undergraduate student at Birla Institute of Technology and Science, Pilani, India. My interest lies in building machine learning systems for cyberthreat intelligence and digital forensics. I have been actively working on Bitcoin Blockchain Data Analytics with [Professor Ashutosh Bhatia](https://www.bits-pilani.ac.in/pilani/ashutoshbhatia/profile) and on social network mining with [Professor Vinti Agarwal](https://www.bits-pilani.ac.in/pilani/vintiagarwal/Research). 
 
+## Internships
+1. Ongoing: JP Morgan Software Services, India\
+Software Engineering Intern\
+2. Samsung Research and Development, India\
+Research Intern, May 2020\
+Developed a bidirectional Long-short term memory based variable autoencoder to generate melody and chords for piano music. Extensively tuned model hyper-parameters and used sampling techniques to create original 16 bar music of a particular style.
+
+3. Mumbai Railway Vikas Corporation, India\
+Software Intern, May 2019\
+Developed an android and web based Project Management System for the Mumbai Railway Vikas Corporation for efficient intra-company communication.
 
 ## Publications and submitted manuscripts
 
@@ -30,5 +40,7 @@ DOI: https://doi.org/10.1007/978-3-030-44038-1_17
 ## Ongoing Projects
 1. Dark Web Mining: Indentification of threats from the Iron March web forum\
 Project Supervisor: [Professor Vinti Agarwal](https://www.bits-pilani.ac.in/pilani/vintiagarwal/Research).
-2. Integrating Explainable AI with Federated Learning\
+2. TwiGNet: Graph Based Deep Semi-Supervised Framework for Tweets Classification\
+Project Supervisor: [Professor Vinti Agarwal](https://www.bits-pilani.ac.in/pilani/vintiagarwal/Research).
+3. Integrating Explainable AI with Federated Learning\
 Project Supervisor: [Professor Navneet Goyal]( https://universe.bits-pilani.ac.in/pilani/goel/profile).
