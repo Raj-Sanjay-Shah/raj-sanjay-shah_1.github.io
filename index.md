@@ -15,11 +15,11 @@ Developed an android and web based Project Management System for the Mumbai Rail
 ## Publications and submitted manuscripts
 
 **2021**
-1. Bitcoin Data Analytics: Scalable techniques fortransaction clustering and embedding generation\
+1. Bitcoin Data Analytics: Scalable techniques for transaction clustering and embedding generation\
 Authors: **Raj Sanjay Shah**, Ashutosh Bhatia, Atith Gandhi and Shray Mathur\
 Accepted in [COMSNETS 2021](https://www.comsnets.org/)\
 13th International Conference on COMmunication Systems & NETworkS\
-Abstract: Bitcoin provides pseudo-anonymity to its users, leading to many transactions related to illicit activities. The advent of mixing services like OnionBC, Bitcoin Fog, and Blockchain.info has allowed users to increase their anonymity further. This paper tackles the pseudo-anonymity of the Bitcoin blockchain by developing a scalable spark based framework to find patterns in the transaction data. The efficacy of the framework is demonstrated by performing exploratory analysis. Furthermore, the paper shows the capabilities of bitcoin-based graph representations and addresses the issue of user profiling based on unsupervised learning approaches for analysing Bitcoin transactions and users. The authors convert the transaction graph of the Bitcoin data to contain only Wallet-IDs and generate graph embeddings using Variational Graph Autoencoder. Additionally, the authors use explainable-AI techniques and Kohonen self organizing maps to visualize and understand the results obtained from the unsupervised learning methods.\
+Abstract: Bitcoin provides pseudo-anonymity to its users, leading to many transactions related to illicit activities. The advent of mixing services like OnionBC, Bitcoin Fog, and Blockchain.info has allowed users to increase their anonymity further. This paper tackles the pseudo-anonymity of the Bitcoin blockchain by developing a scalable spark based framework to find patterns in the transaction data. The efficacy of the framework is demonstrated by performing exploratory analysis. Furthermore, the paper shows the capabilities of bitcoin-based graph representations and addresses the issue of user profiling based on unsupervised learning approaches for analysing Bitcoin transactions and users. The authors convert the transaction graph of the Bitcoin data to contain only Wallet-IDs and generate graph embeddings using Variational Graph Autoencoder. Additionally, the authors use explainable-AI techniques and Kohonen self organizing maps to visualize and understand the results obtained from the unsupervised learning methods.
 
 **2020**
 1. CTI-Twitter: Gathering Cyber Threat Intelligence from Twitter using Integrated Supervised and Unsupervised Learning\
