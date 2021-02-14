@@ -3,7 +3,7 @@ I'm a final year undergraduate student at Birla Institute of Technology and Scie
 
 ## Internships
 1. Ongoing: JP Morgan Software Services, India\
-Software Engineering Intern\
+Software Engineering Intern
 2. Samsung Research and Development, India\
 Research Intern, May 2020\
 Developed a bidirectional Long-short term memory based variable autoencoder to generate melody and chords for piano music. Extensively tuned model hyper-parameters and used sampling techniques to create original 16 bar music of a particular style.
