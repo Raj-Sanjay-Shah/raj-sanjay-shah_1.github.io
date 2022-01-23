@@ -24,7 +24,7 @@ Developed an android and web based Project Management System for the Mumbai Rail
 ## Publications and submitted manuscripts
 **2022**
 1. Modeling Motivational Interviewing Strategies on an Online Peer-to-Peer Counseling Platform\
-**First Author Submission: Under Review**
+**First Author Submission: Under Review at CSCW 2022**
 
 **2021**
 1. Bitcoin Data Analytics: Scalable techniques for transaction clustering and embedding generation\
