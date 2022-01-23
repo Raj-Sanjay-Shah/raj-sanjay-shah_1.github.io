@@ -1,5 +1,12 @@
 First year graduate student at Georgia Institute of Technology. Interested in building scalable natural language processing models for social good. Actively working on AI for Mental Health and Adversarial Question Authoring. Skilled in C++, Python, JAVA, Hadoop, Natural Language Processing, Machine Learning algorithms, and Data Structures.
 
+## Ongoing Projects
+1. When FLUE meets FLANG: Benchmarks and Large Pretrained Language Model for Financial Domain\
+Project Supervisor: [Professor Diyi Yang](https://faculty.cc.gatech.edu/~dyang888/).
+2. QAML: QAML: Trivia Question writing Aided by Machine Learning\
+Project Supervisor: [Professor Jordan Boyd-Graber](http://users.umiacs.umd.edu/~jbg/).
+
+
 ## Internships
 1. University of Maryland, College Park\
     Research Intern, June 2021\
@@ -39,10 +46,4 @@ Workshops of 34th International Conference on Advanced Information Networking an
 Abstract: Bitcoin is the most successful cryptocurrency since its inception in 2009. There are 18.1 million BTCs in circulation as of December 2019, which roughly translates to 149 Billion USD. With Bitcoin’s substantial market capitalization and unique features like pseudo-anonymity and immutability, it draws much attention from the researchers across the world. Despite this enormous spotlight towards Bitcoin, it remains under-researched because of the large size of the Bitcoin Data, (Roughly 250 GB) and the inability to process this data in small time. To explore avenues for further research, this article presents a survey of the recent advancements done regarding the big data analytics of the Bitcoin Cryptocurrency. Furthermore, we propose an analysis framework based on the Apache Hadoop ecosystem.\
 DOI: https://doi.org/10.1007/978-3-030-44038-1_17
 
-## Ongoing Projects
-1. Dark Web Mining: Indentification of threats from the Iron March web forum\
-Project Supervisor: [Professor Vinti Agarwal](https://www.bits-pilani.ac.in/pilani/vintiagarwal/Research).
-2. TwiGNet: Graph Based Deep Semi-Supervised Framework for Tweets Classification\
-Project Supervisor: [Professor Vinti Agarwal](https://www.bits-pilani.ac.in/pilani/vintiagarwal/Research).
-3. Integrating Explainable AI with Federated Learning\
-Project Supervisor: [Professor Navneet Goyal]( https://universe.bits-pilani.ac.in/pilani/goel/profile).
+
