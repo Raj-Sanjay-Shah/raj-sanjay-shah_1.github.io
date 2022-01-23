@@ -1,17 +1,23 @@
-
-I'm a final year undergraduate student at Birla Institute of Technology and Science, Pilani, India. My interest lies in building machine learning systems for cyberthreat intelligence and digital forensics. I have been actively working on Bitcoin Blockchain Data Analytics with [Professor Ashutosh Bhatia](https://www.bits-pilani.ac.in/pilani/ashutoshbhatia/profile) and on social network mining with [Professor Vinti Agarwal](https://www.bits-pilani.ac.in/pilani/vintiagarwal/Research). 
+First year graduate student at Georgia Institute of Technology. Interested in building scalable natural language processing models for social good. Actively working on AI for Mental Health and Adversarial Question Authoring. Skilled in C++, Python, JAVA, Hadoop, Natural Language Processing, Machine Learning algorithms, and Data Structures.
 
 ## Internships
-1. Ongoing: JP Morgan Software Services, India\
-Software Engineering Intern
-2. Samsung Research and Development, India\
+1. University of Maryland, College Park\
+    Research Intern, June 2021\
+    QAML (/ˈkæməl/, Question-writing Aided by Machine Learning) is an interface for adversarial question-writing enhanced by the QANTA QA dataset.
+2. JP Morgan Software Services, India\
+Software Engineering Intern\
+Worked in the Merchant Services team on developing automated testing scripts for the onboarding platform using the postman tool.
+3. Samsung Research and Development, India\
 Research Intern, May 2020\
 Developed a bidirectional Long-short term memory based variable autoencoder to generate melody and chords for piano music. Extensively tuned model hyper-parameters and used sampling techniques to create original 16 bar music of a particular style.
-3. Mumbai Railway Vikas Corporation, India\
+4. Mumbai Railway Vikas Corporation, India\
 Software Intern, May 2019\
 Developed an android and web based Project Management System for the Mumbai Railway Vikas Corporation for efficient intra-company communication.
 
 ## Publications and submitted manuscripts
+**2022**
+1. Modeling Motivational Interviewing Strategies on an Online Peer-to-Peer Counseling Platform\
+**First Author Submission: Under Review**
 
 **2021**
 1. Bitcoin Data Analytics: Scalable techniques for transaction clustering and embedding generation\
