@@ -1,4 +1,4 @@
-**Recent Updates: Received the Donald V. Jackson Fellowship Award**
+**Recent Updates: Received the Donald V. Jackson Fellowship Award**\
 Second year master's student at Georgia Institute of Technology. Interested in building scalable natural language processing models for social good. Actively working on AI for Mental Health and Adversarial Question Authoring. Skilled in C++, Python, JAVA, Hadoop, Natural Language Processing, Machine Learning algorithms, and Data Structures.
 
 ## Ongoing Projects
@@ -11,7 +11,7 @@ Project Supervisor: [Professor Jordan Boyd-Graber](http://users.umiacs.umd.edu/~
 ## Internships
 1. Epic Systems\
 Software Developer - ML Intern\
-Trained Large Language Models to predict workflow actions of Health Care Providers with the goal of bringing relevant patient information to the Provider Dashboard on-the-fly
+Trained Large Language Models to predict workflow actions of Health Care Providers with the goal of bringing relevant patient information to the Provider Dashboard on-the-fly.
 2. University of Maryland, College Park\
     Research Intern, June 2021\
     QAML (/ˈkæməl/, Question-writing Aided by Machine Learning) is an interface for adversarial question-writing enhanced by the QANTA QA dataset.
