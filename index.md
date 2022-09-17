@@ -2,8 +2,8 @@
 Second year master's student at Georgia Institute of Technology. Interested in building scalable natural language processing models for social good. Actively working on AI for Mental Health and Adversarial Question Authoring. Skilled in C++, Python, JAVA, Hadoop, Natural Language Processing, Machine Learning algorithms, and Data Structures.
 
 ## Ongoing Projects
-1. When FLUE meets FLANG: Benchmarks and Large Pretrained Language Model for Financial Domain\
-Project Supervisor: [Professor Diyi Yang](https://faculty.cc.gatech.edu/~dyang888/).
+1. Few shot controllable text generation\
+Project Supervisor: [Professor Diyi Yang](http://www.diyiyang.com/).
 2. QAML: QAML: Trivia Question writing Aided by Machine Learning\
 Project Supervisor: [Professor Jordan Boyd-Graber](http://users.umiacs.umd.edu/~jbg/).
 
@@ -39,11 +39,11 @@ This work provides a deeper understanding of the use of motivational interviewin
 DOI: https://doi.org/10.1145/3555640
 
 2. When FLUE meets FLANG: Benchmarks and Large Pretrained Language Model for Financial Domain\
-Project Supervisor: [Professor Diyi Yang]([https://faculty.cc.gatech.edu/~dyang888/](https://cs.stanford.edu/~diyiy/)).
+Project Supervisor: [Professor Diyi Yang](https://cs.stanford.edu/~diyiy/).\
 **First Author Submission: Under Review at EMNLP 2022**
 
 3. Metrics for Peer Counseling: Triangulating Success Outcomes for Online Therapy Platforms\
-Project Supervisor: [Professor Diyi Yang]([https://faculty.cc.gatech.edu/~dyang888/](https://cs.stanford.edu/~diyiy/)).
+Project Supervisor: [Professor Diyi Yang]([https://faculty.cc.gatech.edu/~dyang888/](https://cs.stanford.edu/~diyiy/)).\
 **Second Author Submission: Under Review at CHI 2023**
 
 **2021**
