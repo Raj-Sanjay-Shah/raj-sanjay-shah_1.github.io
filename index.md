@@ -1,4 +1,5 @@
-First year graduate student at Georgia Institute of Technology. Interested in building scalable natural language processing models for social good. Actively working on AI for Mental Health and Adversarial Question Authoring. Skilled in C++, Python, JAVA, Hadoop, Natural Language Processing, Machine Learning algorithms, and Data Structures.
+**Recent Updates: Received the Donald V. Jackson Fellowship Award**
+Second year master's student at Georgia Institute of Technology. Interested in building scalable natural language processing models for social good. Actively working on AI for Mental Health and Adversarial Question Authoring. Skilled in C++, Python, JAVA, Hadoop, Natural Language Processing, Machine Learning algorithms, and Data Structures.
 
 ## Ongoing Projects
 1. When FLUE meets FLANG: Benchmarks and Large Pretrained Language Model for Financial Domain\
@@ -8,7 +9,10 @@ Project Supervisor: [Professor Jordan Boyd-Graber](http://users.umiacs.umd.edu/~
 
 
 ## Internships
-1. University of Maryland, College Park\
+1. Epic Systems\
+Software Developer - ML Intern\
+Trained Large Language Models to predict workflow actions of Health Care Providers with the goal of bringing relevant patient information to the Provider Dashboard on-the-fly
+2. University of Maryland, College Park\
     Research Intern, June 2021\
     QAML (/ˈkæməl/, Question-writing Aided by Machine Learning) is an interface for adversarial question-writing enhanced by the QANTA QA dataset.
 2. JP Morgan Software Services, India\
@@ -24,7 +28,23 @@ Developed an android and web based Project Management System for the Mumbai Rail
 ## Publications and submitted manuscripts
 **2022**
 1. Modeling Motivational Interviewing Strategies on an Online Peer-to-Peer Counseling Platform\
-**First Author Submission: Under Review at CSCW 2022**
+Authors: **Raj Sanjay Shah**, Faye Holt, Shirley Hayati, Aastha Agarwal, Yi-Chia Wang, Robert E. Kraut and Diyi Yang\
+Accepted in [CSCW 2022](https://cscw.acm.org/2022/)\
+The 25th ACM Conference On Computer-Supported Cooperative Work And Social Computing\
+<!-- Millions of people participate in online peer-to-peer support sessions, yet there has been little prior research on systematic psychology-based evaluations of fine-grained peer-counselor behavior in relation to client satisfaction. This paper seeks to bridge this gap by mapping peer-counselor chat-messages to motivational
+interviewing (MI) techniques. We annotate 14,797 utterances from 734 chat conversations using 17 MI techniques and introduce four new interviewing codes such as “chit-chat” and “inappropriate” to account for the unique conversational patterns observed on online platforms. We automate the process of labeling
+peer-counselor responses to MI techniques by fine-tuning large domain-specific language models and then use these automated measures to investigate the behavior of the peer counselors via correlational studies. Specifically, we study the impact of MI techniques on the conversation ratings to investigate the techniques
+that predict clients’ satisfaction with their counseling sessions. When counselors use techniques such as reflection and affirmation, clients are more satisfied. Examining volunteer counselors’ change in usage of techniques suggest that counselors learn to use more introduction and open questions as they gain experience.
+This work provides a deeper understanding of the use of motivational interviewing techniques on peer-to-peer counselor platforms and sheds light on how to build better training programs for volunteer counselors on online platforms.\ -->
+DOI: https://doi.org/10.1145/3555640
+
+2. When FLUE meets FLANG: Benchmarks and Large Pretrained Language Model for Financial Domain\
+Project Supervisor: [Professor Diyi Yang]([https://faculty.cc.gatech.edu/~dyang888/](https://cs.stanford.edu/~diyiy/)).
+**First Author Submission: Under Review at EMNLP 2022**
+
+3. Metrics for Peer Counseling: Triangulating Success Outcomes for Online Therapy Platforms\
+Project Supervisor: [Professor Diyi Yang]([https://faculty.cc.gatech.edu/~dyang888/](https://cs.stanford.edu/~diyiy/)).
+**Second Author Submission: Under Review at CHI 2023**
 
 **2021**
 1. Bitcoin Data Analytics: Scalable techniques for transaction clustering and embedding generation\
